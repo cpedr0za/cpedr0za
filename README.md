@@ -3,7 +3,7 @@
 <!--                 PROFILE HEADER                    -->
 <!-- ================================================= -->
 
-<h1 align="center">PEDROZA.</h1>
+<h1 align="center">CAROLYN PEDROZA.</h1>
 
 <h3 align="center">
   CYBERSECURITY STUDENT | ASPIRING SECURITY ANALYST
@@ -23,12 +23,12 @@
 ## 01 / ABOUT ME
 
 ```text
-USER       : Pedroza
+NAME       : Carolyn Pedroza
 EDUCATION  : Northern Arizona University
 MAJOR      : B.S. Cybersecurity
 INTERESTS  : Security Operations, Cloud Security,
              Threat Detection & Automation
-OBJECTIVE  : Building skills to become a Security Analyst
+OBJECTIVE  : Building skills to become a Security Analyst and later down the road, a Security Engineer!
 ```
 
 I'm a cybersecurity student interested in understanding
