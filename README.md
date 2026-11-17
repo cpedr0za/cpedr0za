@@ -1,112 +1,208 @@
 
-<!-- ================================================= -->
-<!--                 PROFILE HEADER                    -->
-<!-- ================================================= -->
+<!--
+====================================================
+CAROLYN PEDROZA | CYBERSECURITY PROFILE
+Theme: Burgundy / Black / White / Feminine Tech
+====================================================
+-->
 
-<h1 align="center">CAROLYN PEDROZA.</h1>
+<!-- ================ HEADER ================= -->
+
+<p align="center">
+  <!-- IMAGE 1: YOUR CUSTOM BANNER -->
+  <img src="assets/banner.png" width="100%" alt="Carolyn's cybersecurity banner"/>
+</p>
+
+<h1 align="center">
+  Carolyn Pedroza
+</h1>
 
 <h3 align="center">
-  CYBERSECURITY STUDENT | ASPIRING SECURITY ANALYST
+  <i>Cybersecurity student | Aspiring Security Analyst</i>
 </h3>
 
 <p align="center">
-  <i>Learn. Analyze. Defend. Repeat.</i>
+  <img src="https://img.shields.io/badge/cybersecurity-student-713044?style=flat-square"/>
+  <img src="https://img.shields.io/badge/focus-security%20operations-713044?style=flat-square"/>
+  <img src="https://img.shields.io/badge/always-learning-BD7589?style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-7B263F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-7B263F?style=for-the-badge" />
+  <i>♡ learning to understand, investigate, and defend the digital world.</i>
 </p>
 
 ---
 
-## 01 / ABOUT ME
+<!-- ================ WHOAMI ================= -->
 
-```text
-NAME       : Carolyn Pedroza
-EDUCATION  : Northern Arizona University
-MAJOR      : B.S. Cybersecurity
-INTERESTS  : Security Operations, Cloud Security,
-             Threat Detection & Automation
-OBJECTIVE  : Building skills to become a Security Analyst and later down the road, a Security Engineer!
+<h2 align="center">♡ whoami</h2>
+
+```bash
+carolyn@cybersecurity:~$ whoami
+
+Name       : Carolyn Pedroza
+Education  : Northern Arizona University
+Major      : B.S. Cybersecurity
+Interests  : Threat Detection, Cloud Security,
+             Security Operations & Automation
+Goal       : Become a Security Analyst and down the road a Security Engineer
+
+carolyn@cybersecurity:~$ _
 ```
 
-I'm a cybersecurity student interested in understanding
-how systems work, identifying vulnerabilities, and
-developing practical security solutions.
+<p align="center">
+  <!-- IMAGE 2: TERMINAL / COMPUTER AESTHETIC -->
+  <img src="assets/terminal.png" width="75%" alt="Terminal aesthetic"/>
+</p>
 
-I'm currently building my technical foundation through
-hands-on labs, independent projects, and continuous learning.
+I'm a cybersecurity student at Northern Arizona University
+with an interest in understanding how digital systems work,
+identifying vulnerabilities, and developing stronger
+security practices.
 
----
-
-## 02 / CURRENTLY LEARNING
-
-- Linux and system administration
-- Networking and network security
-- Python and SQL
-- AWS cloud security
-- Security monitoring and threat detection
-- CompTIA Security+ preparation
+I'm building my technical foundation through hands-on
+projects, independent learning, and cybersecurity labs.
 
 ---
 
-## 03 / TECHNICAL SKILLS
+<!-- ================ MISSION ================= -->
 
-**Languages**
+<h2 align="center">♡ cat mission.txt</h2>
 
-![Python](https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-181818?style=flat-square&logo=postgresql&logoColor=white)
+```text
+My goal is to develop the knowledge and technical
+skills needed to investigate security incidents,
+identify threats, and help protect digital systems.
 
-**Systems & Cloud**
-
-![Linux](https://img.shields.io/badge/Linux-181818?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-181818?style=flat-square&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-181818?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-**Security Tools**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-181818?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-181818?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)
+Curiosity drives learning.
+Consistency builds skills.
+Practice creates experience.
+```
 
 ---
 
-## 04 / FEATURED PROJECTS
+<!-- ================ SKILLS ================= -->
 
-Projects are currently in development.
+<h2 align="center">♡ ls ./skills</h2>
 
-| Project | Focus | Status |
+<h3>Languages & Development</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-242024?style=flat-square&logo=python&logoColor=BD7589"/>
+  <img src="https://img.shields.io/badge/SQL-242024?style=flat-square&logo=postgresql&logoColor=BD7589"/>
+  <img src="https://img.shields.io/badge/Git-242024?style=flat-square&logo=git&logoColor=BD7589"/>
+</p>
+
+<h3>Systems & Cloud</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-242024?style=flat-square&logo=linux&logoColor=BD7589"/>
+  <img src="https://img.shields.io/badge/Windows-242024?style=flat-square&logo=windows&logoColor=BD7589"/>
+  <img src="https://img.shields.io/badge/AWS-242024?style=flat-square&logo=amazonaws&logoColor=BD7589"/>
+</p>
+
+<h3>Security & Networking</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-242024?style=flat-square&logo=wireshark&logoColor=BD7589"/>
+  <img src="https://img.shields.io/badge/Networking-242024?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-242024?style=flat-square"/>
+</p>
+
+---
+
+<!-- ================ LEARNING ================= -->
+
+<h2 align="center">♡ currently_learning.log</h2>
+
+```python
+learning = {
+    "security": [
+        "Security Operations",
+        "Threat Detection",
+        "Incident Response"
+    ],
+    "technical": [
+        "Linux",
+        "Networking",
+        "Python",
+        "SQL"
+    ],
+    "cloud": [
+        "AWS",
+        "Cloud Security"
+    ],
+    "certifications": [
+        "CompTIA Security+"
+    ]
+}
+```
+
+---
+
+<!-- ================ PROJECTS ================= -->
+
+<h2 align="center">♡ ls ./projects</h2>
+
+<p align="center">
+  <!-- IMAGE 3: YOUR PROJECT COLLAGE -->
+  <img src="assets/projects.png" width="85%" alt="Cybersecurity projects"/>
+</p>
+
+| Project | Description | Status |
 |---|---|---|
-| Windows Event Log Analysis | Security Monitoring | Planned |
-| Network Traffic Analysis | Network Security | Planned |
-| AWS Security Labs | Cloud Security | Planned |
-| Vulnerability Assessment | Vulnerability Management | Planned |
+| Windows Event Log Analysis | Investigating Windows security events | Planned |
+| Network Traffic Analysis | Exploring network traffic with Wireshark | Planned |
+| AWS Security Labs | Learning cloud security configurations | Planned |
+| Vulnerability Assessment | Identifying and documenting vulnerabilities | Planned |
 
-More projects coming soon.
-
----
-
-## 05 / CERTIFICATIONS & LEARNING
-
-- CompTIA Security+ — Preparation in progress
-- AWS — Cloud security fundamentals
-- Hands-on cybersecurity labs
+<p align="center">
+  <i>More projects coming soon ♡</i>
+</p>
 
 ---
 
-## 06 / CONNECT
+<!-- ================ CERTIFICATIONS ================= -->
+
+<h2 align="center">♡ certifications & achievements</h2>
+
+```text
+[IN PROGRESS]  CompTIA Security+ preparation
+[LEARNING]     AWS Cloud Security fundamentals
+[ONGOING]      Hands-on cybersecurity labs
+```
+
+---
+
+<!-- ================ GITHUB ================= -->
+
+<h2 align="center">♡ git status</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cpedr0za&show_icons=true&hide_border=true&bg_color=120E10&title_color=BD7589&icon_color=BD7589&text_color=F8F1F2" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpedr0za&layout=compact&hide_border=true&bg_color=120E10&title_color=BD7589&text_color=F8F1F2" width="48%" />
+</p>
+
+---
+
+<!-- ================ CONNECT ================= -->
+
+<h2 align="center">♡ ./connect.sh</h2>
 
 <p align="center">
   <a href="https://github.com/cpedr0za">
-    <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-242024?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/carolyn-pedroza-42b346376/">
+    <img src="https://img.shields.io/badge/LinkedIn-713044?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <i>♡ always learning. always building.</i>
 </p>
 
 <p align="center">
-  <sub>© 2026 PEDROZA. | CYBERSECURITY PORTFOLIO</sub>
+  <sub>CAROLYN PEDROZA · CYBERSECURITY · 2026</sub>
 </p>
