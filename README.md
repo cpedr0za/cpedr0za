@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-990000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NAU-NORTHERN_ARIZONA_UNIVERSITY-990000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/GRADUATION-MAY_2029-990000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MAJOR-CYBERSECURITY-990000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UNIVERSITY-NAU-990000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GRADUATION-MAY_2029-990000?style=for-the-badge"/>
 </p>
 
 ---
@@ -33,17 +33,24 @@ cloud security, security engineering, and AI security.
 
 ### `terminal / user_profile`
 
-```bash
-┌──(carolyn㉿nau)-[~]
-└─$ whoami
+<div align="center">
+  <img src="https://img.shields.io/badge/TERMINAL-0D0D0D?style=flat-square&logo=windows-terminal&logoColor=CC0000"/>
+</div>
 
-Name       : Carolyn Pedroza
-Role       : Cybersecurity Student
-University : Northern Arizona University
-Degree     : B.S. Cybersecurity
-Focus      : Security Operations & Cloud Security
-Goal       : Security Analyst
-Status     : Learning & Building
+```bash
+╭─ carolyn@NAU: ~
+╰─$ whoami
+
+  NAME        Carolyn Pedroza
+  MAJOR       Cybersecurity
+  UNIVERSITY  Northern Arizona University
+  DEGREE      B.S. Cybersecurity
+  FOCUS       Security Operations & Cloud Security
+  GOAL        Security Analyst
+  STATUS      Learning & Building
+
+╭─ carolyn@NAU: ~
+╰─$
 ```
 
 ---
@@ -129,10 +136,9 @@ experiments. This section will grow as I build and complete projects.
 
 <table>
   <tr>
-    <td width="65%" valign="middle">
+    <td width="60%" valign="middle">
 
       <h2>07 / BEYOND THE TERMINAL</h2>
-
       <h3>Always curious. Always learning.</h3>
 
       <p>
@@ -141,12 +147,10 @@ experiments. This section will grow as I build and complete projects.
         something new.
       </p>
 
-      <p>
-        <i>There's always more to discover.</i>
-      </p>
+      <p><i>There's always more to discover.</i></p>
 
     </td>
-    <td width="35%" valign="middle" align="center">
+    <td width="40%" valign="middle" align="center">
       <img src="assets/code-vertical.png" width="100%" alt="Vertical crimson cybersecurity code artwork"/>
     </td>
   </tr>
