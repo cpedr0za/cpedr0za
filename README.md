@@ -1,9 +1,9 @@
 
-<!-- ================================== -->
-<!-- CAROLYN PEDROZA | PROFILE README   -->
-<!-- ================================== -->
+<!-- ========================================= -->
+<!-- CAROLYN PEDROZA | CYBERSECURITY PROFILE   -->
+<!-- ========================================= -->
 
-<!-- BANNER -->
+<!-- MAIN BANNER -->
 <p align="center">
   <img src="assets/banner.png" width="100%" alt="Carolyn Pedroza"/>
 </p>
@@ -13,33 +13,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-990000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CYBERSECURITY-990000?style=flat-square"/>
   <img src="https://img.shields.io/badge/NAU-NORTHERN_ARIZONA_UNIVERSITY-990000?style=flat-square"/>
   <img src="https://img.shields.io/badge/GRADUATION-MAY_2029-990000?style=flat-square"/>
 </p>
 
 ---
 
+## 01 / WHO AM I?
 
-<h2>01 / WHO AM I?</h2>
+I'm a cybersecurity student at Northern Arizona University
+working toward a career in information security.
 
-<table>
-  <tr>
-    <td>
+I'm interested in understanding how systems work, identifying
+security weaknesses, and learning how to protect digital environments.
 
-      I'm a cybersecurity student at Northern Arizona University
-      working toward a career in information security.
+My main interests include security operations, threat detection,
+cloud security, security engineering, and AI security.
 
-      I'm interested in security operations, threat detection,
-      cloud security, and security engineering.
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TERMINAL-USER%20PROFILE-990000?style=flat-square"/>
-</p>
+### `terminal / user_profile`
 
 ```bash
 ┌──(carolyn㉿nau)-[~]
@@ -86,12 +78,10 @@ learning = {
         "Threat Detection",
         "CompTIA Security+"
     ],
-
     "cloud": [
         "AWS Fundamentals",
         "Cloud Security"
     ],
-
     "technical": [
         "Python",
         "Linux",
@@ -105,8 +95,8 @@ learning = {
 
 ## 04 / PROJECT ARCHIVE
 
-A growing collection of technical projects, coursework,
-and hands-on cybersecurity exercises.
+A collection of hands-on labs, technical projects, and cybersecurity
+experiments. This section will grow as I build and complete projects.
 
 | PROJECT | AREA | STATUS |
 |:---|:---|:---|
@@ -115,15 +105,15 @@ and hands-on cybersecurity exercises.
 | AWS Security Labs | Cloud Security | In Progress |
 | Vulnerability Assessment | Security Testing | Planned |
 
-*Projects will be linked here as they are completed.*
+*Project repositories and documentation will be linked as they become available.*
 
 ---
 
 ## 05 / CERTIFICATIONS & DEVELOPMENT
 
-- CompTIA Security+ — Preparation
+- CompTIA Security+ — Preparing
 - AWS Cloud Security — Learning
-- Hands-on cybersecurity labs — Ongoing
+- Cybersecurity labs — Ongoing
 - Independent technical projects — Ongoing
 
 ---
@@ -137,13 +127,12 @@ and hands-on cybersecurity exercises.
 
 ---
 
-<!-- CLOSING SECTION -->
-
 <table>
   <tr>
     <td width="65%" valign="middle">
 
       <h2>07 / BEYOND THE TERMINAL</h2>
+
       <h3>Always curious. Always learning.</h3>
 
       <p>
@@ -152,15 +141,16 @@ and hands-on cybersecurity exercises.
         something new.
       </p>
 
-      <p><i>There's always more to discover.</i></p>
+      <p>
+        <i>There's always more to discover.</i>
+      </p>
 
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="assets/code-vertical.png" width="100%" alt="Crimson cybersecurity code artwork"/>
+      <img src="assets/code-vertical.png" width="100%" alt="Vertical crimson cybersecurity code artwork"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
