@@ -40,6 +40,8 @@ Focused on:
 
 Currently building experience through:
 • Hands-on labs
+• Capture The Flags
+• Hackathons
 • Technical projects
 • Industry certifications
 • Continuous learning
