@@ -143,19 +143,27 @@ experiments. This section will grow as I build and complete projects.
 
       <p>
         Building knowledge one line of code at a time.
-        Every challenge is an opportunity to understand
-        something new.
-      </p>
+        Every challenge is an opportunity to unde## 07 / BEYOND THE TERMINAL
 
-      <p><i>There's always more to discover.</i></p>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="assets/code-vertical.png" width="100%" alt="Vertical crimson cybersecurity code artwork"/>
-    </td>
-  </tr>
+<img src="https://img.shields.io/badge/TERMINAL-0D0D0D?style=flat-square&logo=windows-terminal&logoColor=CC0000">
+
+<br><br>
+
+<img src="assets/beyond-terminal-box.png" width="100%">
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="assets/code-vertical.png" width="100%">
+
+</td>
+</tr>
 </table>
-
 ---
 
 ## 08 / LET'S CONNECT
