@@ -20,24 +20,39 @@
 
 ---
 
-## 01 / WHO AM I?
 
-I'm a cybersecurity student at Northern Arizona University
-working toward a career in information security.
+<h2>01 / WHO AM I?</h2>
 
-I'm interested in understanding how systems work, identifying
-security weaknesses, and learning how to protect digital environments.
+<table>
+  <tr>
+    <td>
 
-My current interests include:
+      I'm a cybersecurity student at Northern Arizona University
+      working toward a career in information security.
 
-- Security Operations
-- Threat Detection and Analysis
-- Cloud Security
-- Security Engineering
-- Automation and AI Security
+      I'm interested in security operations, threat detection,
+      cloud security, and security engineering.
 
-My goal is to graduate with practical experience, a strong technical
-foundation, and the skills to begin my career as a Security Analyst and later down the road, a Security Engineer.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TERMINAL-USER%20PROFILE-990000?style=flat-square"/>
+</p>
+
+```bash
+┌──(carolyn㉿nau)-[~]
+└─$ whoami
+
+Name       : Carolyn Pedroza
+Role       : Cybersecurity Student
+University : Northern Arizona University
+Degree     : B.S. Cybersecurity
+Focus      : Security Operations & Cloud Security
+Goal       : Security Analyst
+Status     : Learning & Building
+```
 
 ---
 
@@ -123,32 +138,29 @@ and hands-on cybersecurity exercises.
 ---
 
 <!-- CLOSING SECTION -->
+
 <table>
   <tr>
     <td width="65%" valign="middle">
 
-      <h2>07 / THE JOURNEY CONTINUES</h2>
-
-      <h3>Always learning. Always building.</h3>
-
-      <p>
-        Every lab, project, and challenge is another step
-        toward becoming a security professional.
-      </p>
+      <h2>07 / BEYOND THE TERMINAL</h2>
+      <h3>Always curious. Always learning.</h3>
 
       <p>
-        I'm focused on building real skills, gaining experience,
-        and turning curiosity into practical knowledge.
+        Building knowledge one line of code at a time.
+        Every challenge is an opportunity to understand
+        something new.
       </p>
 
-      <p><i>The best work is always in progress.</i></p>
+      <p><i>There's always more to discover.</i></p>
 
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="assets/code-vertical.png" width="100%" alt="Vertical cybersecurity code artwork"/>
+      <img src="assets/code-vertical.png" width="100%" alt="Crimson cybersecurity code artwork"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
