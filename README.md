@@ -134,36 +134,36 @@ experiments. This section will grow as I build and complete projects.
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="middle">
 
-      <h2>07 / BEYOND THE TERMINAL</h2>
-      <h3>Always curious. Always learning.</h3>
-
-      <p>
-        Building knowledge one line of code at a time.
-        Every challenge is an opportunity to unde## 07 / BEYOND THE TERMINAL
+## 07 / BEYOND THE TERMINAL
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
-<img src="https://img.shields.io/badge/TERMINAL-0D0D0D?style=flat-square&logo=windows-terminal&logoColor=CC0000">
+### Always Curious. Always Learning.
 
-<br><br>
+Cybersecurity is more than a field of study for me. It's an opportunity to continuously learn, solve complex problems, and understand how technology impacts the world around us.
 
-<img src="assets/beyond-terminal-box.png" width="100%">
+As I build my foundation in security operations, cloud security, networking, and system administration, I focus on developing both technical expertise and the mindset needed to adapt in an ever-changing industry.
+
+I believe growth comes from curiosity, persistence, and a willingness to take on challenges that push me beyond my comfort zone. Every project, lab, and learning experience is another step toward becoming a stronger cybersecurity professional.
+
+*"Every challenge is an opportunity to learn something new."*
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
-<img src="assets/code-vertical.png" width="100%">
+<img src="assets/code-vertical.png" width="100%" alt="Cybersecurity Artwork">
 
 </td>
+
 </tr>
 </table>
+
+
 ---
 
 ## 08 / LET'S CONNECT
