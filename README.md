@@ -23,7 +23,7 @@
 ## 01 / WHO AM I?
 
 I'm a cybersecurity student at Northern Arizona University
-working toward a career in information security.
+working toward a career as a Security Analyst and eventually a Security Engineer.
 
 I'm interested in understanding how systems work, identifying
 security weaknesses, and learning how to protect digital environments.
